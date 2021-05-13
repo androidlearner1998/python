@@ -1,2 +1,0 @@
-# python
-DATA SCIENCE JOURNEY
